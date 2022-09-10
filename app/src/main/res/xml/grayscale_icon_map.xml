@@ -17,7 +17,9 @@
     <icon drawable="@drawable/apkmirror_installer" package="com.apkmirror.helper.prod" name="APKMirror Installer" />
     <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
-    <icon drawable="@drawable/application_inspector" package="com.ubqsoft.sec01" name="Application Inspector" />
+    <icon drawable="@drawable/apple_music" package="ru.yandex.music" name="Yandex Music" />
+    <icon drawable="@drawable/apple_music" package="com.sonyericsson.music" name="Music" />
+	<icon drawable="@drawable/application_inspector" package="com.ubqsoft.sec01" name="Application Inspector" />
     <icon drawable="@drawable/asana" package="com.asana.app" name="Asana" />
     <icon drawable="@drawable/audiofx" package="org.lineageos.audiofx" name="AudioFX" />
     <icon drawable="@drawable/aurora_droid" package="com.aurora.adroid" name="Aurora Droid" />
@@ -470,6 +472,7 @@
     <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" />
     <icon drawable="@drawable/pushbullet" package="com.pushbullet.android" name="Pushbullet" />
     <icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
+    <icon drawable="@drawable/quickswitch" package="net.dinglisch.android.taskerm" name="Tasker" />
     <icon drawable="@drawable/quillnote" package="org.qosp.notes" name="Quillnote" />
     <icon drawable="@drawable/rabo_wallet" package="nl.rabowallet" name="Rabo Wallet" />
     <icon drawable="@drawable/rabobank" package="nl.rabomobiel" name="rabobank" />
