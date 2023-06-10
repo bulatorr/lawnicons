@@ -2386,6 +2386,9 @@
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.SplashActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.ui.EntryPointActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.ui.MainScreenActivity}" drawable="yandex_music" name="Music" />
+  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.ui.SplashActivity}" drawable="yandex_music" name="Music" />
+  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.android.main.MainScreenActivity}" drawable="yandex_music" name="Music" />
+  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.ui.SplashActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity}" drawable="headphones" name="Music Player" />
   <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange}" drawable="headphones" name="Music Player" />
   <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Purple}" drawable="headphones" name="Music Player" />
