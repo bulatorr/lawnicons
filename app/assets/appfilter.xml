@@ -1770,7 +1770,6 @@
   <item component="ComponentInfo{com.itau.iti/com.itau.iti.features.onboarding.splashpage.SplashPageActivity}" drawable="iti" name="iti" />
   <item component="ComponentInfo{net.ivpn.client/net.ivpn.core.v2.MainActivity}" drawable="ivpn" name="IVPN" />
   <item component="ComponentInfo{com.ivy.wallet/com.ivy.wallet.ui.IvyActivity}" drawable="ivy_wallet" name="Ivy Wallet" />
-  <item component="ComponentInfo{com.belbim.istanbulkart/com.belbim.istanbulkart.MainActivity}" drawable="istanbulkart" name="İstanbulkart" />
   <item component="ComponentInfo{ru.playsoftware.j2meloader/ru.playsoftware.j2meloader.MainActivity}" drawable="j2me_loader" name="J2ME Loader" />
   <item component="ComponentInfo{com.jago.digitalBanking/com.jago.digitalBanking.MainActivity}" drawable="bank_jago" name="Jago" />
   <item component="ComponentInfo{com.citynav.jakdojade.pl.android/com.citynav.jakdojade.pl.android.SplashScreenActivity}" drawable="jakdojade" name="Jakdojade" />
@@ -2372,6 +2371,9 @@
   <item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull" name="Mull" />
   <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvad_vpn" name="Mullvad VPN" />
   <item component="ComponentInfo{com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity}" drawable="mupdf_viewer" name="MuPDF viewer" />
+  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.ui.SplashActivity}" drawable="yandex_music" name="Music" />
+  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.android.main.MainScreenActivity}" drawable="yandex_music" name="Music" />
+  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.android.ui.MainScreenActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{com.miui.player/com.miui.player.component.MusicBrowserActivity}" drawable="mi_music" name="Music" />
   <item component="ComponentInfo{com.miui.player/com.miui.player.drawerActivityGroup.MainActivityGroup}" drawable="mi_music" name="Music" />
@@ -2386,9 +2388,6 @@
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.SplashActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.ui.EntryPointActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.ui.MainScreenActivity}" drawable="yandex_music" name="Music" />
-  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.ui.SplashActivity}" drawable="yandex_music" name="Music" />
-  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.android.main.MainScreenActivity}" drawable="yandex_music" name="Music" />
-  <item component="ComponentInfo{ru.mts.music.android/ru.mts.music.ui.SplashActivity}" drawable="yandex_music" name="Music" />
   <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity}" drawable="headphones" name="Music Player" />
   <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Orange}" drawable="headphones" name="Music Player" />
   <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Purple}" drawable="headphones" name="Music Player" />
@@ -3402,7 +3401,7 @@
   <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.WelcomeActivity}" drawable="roku" name="Roku" />
   <item component="ComponentInfo{me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" drawable="rootless_james_dsp" name="RootlessJamesDSP" />
   <item component="ComponentInfo{me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.OnboardingActivity}" drawable="rootless_james_dsp" name="RootlessJamesDSP" />
-  <item component="ComponentInfo{de.rtli.tvnow/de.rtli.everest.activity.SplashActivity}" drawable="rtl" name="RTL+"/>
+  <item component="ComponentInfo{de.rtli.tvnow/de.rtli.everest.activity.SplashActivity}" drawable="rtl" name="RTL+" />
   <item component="ComponentInfo{com.octopod.russianpost.client.android/com.octopod.russianpost.client.android.ui.splash.SplashActivity}" drawable="russian_post" name="Russian Post" />
   <item component="ComponentInfo{com.carriez.flutter_hbb/com.carriez.flutter_hbb.MainActivity}" drawable="rustdesk" name="RustDesk" />
   <item component="ComponentInfo{ru.vk.store/ru.vk.store.app.MainActivity}" drawable="rustore" name="RuStore" />
@@ -4818,7 +4817,7 @@
   <item component="ComponentInfo{com.deniscerri.ytdl/com.deniscerri.ytdlnis.MainActivity}" drawable="ytdlnis" name="YTDLnis" />
   <item component="ComponentInfo{com.yubico.yubioath/com.yubico.authenticator.MainActivity}" drawable="yubico_authenticator" name="Yubico Authenticator" />
   <item component="ComponentInfo{io.yuka.android/io.yuka.android.Main.RootActivity}" drawable="yuka" name="Yuka" />
-  <item component="ComponentInfo{org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity}" drawable="yuzu" name="yuzu"/>
+  <item component="ComponentInfo{org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.ui.main.MainActivity}" drawable="yuzu" name="yuzu" />
   <item component="ComponentInfo{de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity}" drawable="zalando" name="Zalando" />
   <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" drawable="zapp" name="Zapp" />
   <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.main.MainActivity}" drawable="zapp" name="Zapp" />
@@ -4849,6 +4848,7 @@
   <item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomoto" name="Zomoto" />
   <item component="ComponentInfo{com.application.zomato/com.application.zomato.Splash}" drawable="zomoto" name="Zomoto" />
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" name="Zoom" />
+  <item component="ComponentInfo{com.utorrent.client/com.bittorrent.app.Main}" drawable="utorrent" name="µTorrent" />
   <item component="ComponentInfo{at.oebb.ts/at.oebb.ts.SplashActivity}" drawable="oebb" name="ÖBB" />
-<item component="ComponentInfo{com.utorrent.client/com.bittorrent.app.Main}" drawable="utorrent" name="µTorrent" />
+<item component="ComponentInfo{com.belbim.istanbulkart/com.belbim.istanbulkart.MainActivity}" drawable="istanbulkart" name="İstanbulkart" />
   </resources>
